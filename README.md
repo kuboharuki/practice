@@ -1,4 +1,4 @@
-# GitHub練習
+# GitHub練習 kubo edit
 
 いろいろなやりかたがありますが、一例を挙げます。
 
